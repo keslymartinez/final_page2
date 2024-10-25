@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "650749203202",
+    "project_id": "computacion-movil-a1z9",
+    "storage_bucket": "computacion-movil-a1z9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650749203202:android:6950b373286398f8bbe81b",
+        "android_client_info": {
+          "package_name": "com.example.compu_movil_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650749203202-u207d1lbk82pqhjbmclph36965kscnmf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.compu_movil_3",
+            "certificate_hash": "11f7a46a85a6461614d893013df7ede191953651"
+          }
+        },
+        {
+          "client_id": "650749203202-mpfagg9r199ekls2q5u4sbpka72jg6d5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDershkgo8OoKx6m3hTX9yY4JTvDh-nIdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650749203202-mpfagg9r199ekls2q5u4sbpka72jg6d5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "650749203202-qp8ka496lal062che7d1kqpi02bsv2p5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.compuMovil3"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
